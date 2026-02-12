@@ -18,5 +18,5 @@ functions_basics.py,
 dictionary_operation.py,
 file_handling_practice.py
 
-Skills demonstrated: Logical Thinking, Code Structure, Understanding Python Syntax, Problem Solving Approach.
-Through this, I strengthened my understanding the basis for Data Analysis.
+Skills to be demonstrated: Logical Thinking, Code Structure, Understanding Python Syntax, Problem Solving Approach.
+Through this, I will strengthen my understanding for the basis of Data Analysis.
